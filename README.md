@@ -5,15 +5,15 @@
 
 <h3 align="left">About me:</h3> 
 
-- 🔨 I’m currently working on [a messenger app using TCP sockets](https://github.com/cmg189/tcp_messenger)
+- 📝 Texas State University and University of North Texas Alumni 
+
+- ⚡ IEEE Computer Society Chair at The University of North Texas
+
+- 🔨 Currently working on [a messenger app using TCP sockets](https://github.com/cmg189/tcp_messenger)
 
 - 🌱 Improving my skills with **Python and Java**
 
-- 📝 Texas State University and University of North Texas Alumni 
-
-- ⚡ IEEE Computer Society Chair at The University of North Texas 
-
-- 👨‍💻 I’m looking to collaborate on [hackathons](https://devpost.com/)
+- 👨‍💻 Looking to collaborate on [hackathons](https://devpost.com/)
 
 - 💬 Ask me about **Computer Networking and Automation**
 
