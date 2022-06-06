@@ -35,7 +35,7 @@
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="images/latex.png" alt="latex" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="images/html.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/css.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/javascript.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="images/javascript.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://trello.com/en-US" target="_blank" rel="noreferrer"> <img src="images/trello.svg" alt="trello" width="40" height="40"/> </a>
 </p>
