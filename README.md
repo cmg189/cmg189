@@ -7,7 +7,7 @@
 
 - 📝 [Texas State University](https://www.psych.txstate.edu/) and [University of North Texas](https://computerscience.engineering.unt.edu/) Alumni
 
-- ⚡ [IEEE Computer Society](https://www.ieee.org/) Chair at The University of North Texas
+- ⚡ [IEEE Computer Society](https://www.ieee.org/) Chair at The University of North Texas 2022
 
 - 🤖 **Arduino** and **Raspberry Pi** Enthusiast
 
