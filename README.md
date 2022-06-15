@@ -41,14 +41,7 @@
 </p>
 
 
+<!-- profile views -->
 <!--
-<h3 align="left">My Stats:</h3>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cmg189&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cmg189&repo=convoychat" />
-</a>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cmg189&label=Profile%20views&color=0e75b6&style=flat" alt="cmg189" /> </p>
 -->
