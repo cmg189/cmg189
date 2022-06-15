@@ -7,11 +7,11 @@
 
 - 📝 [Texas State University](https://www.psych.txstate.edu/) and [University of North Texas](https://computerscience.engineering.unt.edu/) Alumni
 
-- ⚡ [IEEE Computer Society](https://www.ieee.org/) Chair at The University of North Texas
+- ⚡ [IEEE Computer Society](https://www.ieee.org/) Chair at The University of North Texas 2022
 
 - 🤖 **Arduino** and **Raspberry Pi** Enthusiast
 
-- 🔨 Currently working on a CLI messenger app using TCP sockets: [tcp_messenger](https://github.com/cmg189/tcp_messenger)
+- 🔨 Currently working on a CLI app to log your catches this summer! : [fish_tracker](https://github.com/cmg189/fish_tracker)
 
 - 🌱 Improving my skills with **Python** and **Java**
 
