@@ -11,10 +11,6 @@
 
 - 🤖 **Arduino** and **Raspberry Pi** Enthusiast
 
-- 🔨 Currently working on a CLI app to log your catches this summer! : [fish_tracker](https://github.com/cmg189/fish_tracker)
-
-- 🌱 Improving my skills with **Python** and **Java**
-
 - 👨‍💻 Looking to collaborate on [hackathons](https://devpost.com/)
 
 - 💬 Ask me about **Computer Networking** and **Automation**
