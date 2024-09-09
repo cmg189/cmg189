@@ -5,7 +5,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 👨‍💻 Software Engineer working with Layer 2 and Layer 3 Network Devices
+- 👨‍💻 Software Engineer working with Layer 2 and Layer 3 **Network Devices**
 
 - 📝 [Texas State University](https://www.psych.txstate.edu/) and [University of North Texas](https://computerscience.engineering.unt.edu/) Alumni
 
